@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\马揽月\desktop\4\源.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 C:\Users\马揽月\Desktop\4\Debug\4.lib 和对象 C:\Users\马揽月\Desktop\4\Debug\4.exp
+  4.vcxproj -> C:\Users\马揽月\Desktop\4\Debug\4.exe
